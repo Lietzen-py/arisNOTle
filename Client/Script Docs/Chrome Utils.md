@@ -1,0 +1,1 @@
+Potential bypass, on certain sites ([[Unreachable pages]]), the server cant capture the client side screen, but there is also a bypass for it in extension settings, still noted as bypass potential, uses data blobs sent to server for screen cap

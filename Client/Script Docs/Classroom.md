@@ -1,0 +1,1 @@
+Used by Chat, [[Chrome Utils]], [[Logger]], to id the client and connect to the right server
